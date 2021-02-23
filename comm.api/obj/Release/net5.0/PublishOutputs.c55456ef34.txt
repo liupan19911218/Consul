@@ -1,0 +1,13 @@
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\comm.api.exe
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\appsettings.json
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\comm.api.dll
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\comm.api.deps.json
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\comm.api.runtimeconfig.json
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\comm.api.pdb
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\Consul.dll
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\consul\comm.api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
